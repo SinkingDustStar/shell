@@ -1,4 +1,4 @@
-# CS 537 Project 3 -- Shell
+# Shell
 
 ## Administrivia
 
